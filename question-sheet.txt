@@ -1,0 +1,34 @@
+# What is the username for UID 1000? (5 points)
+#
+# Hint: Try recovering environment variables
+
+
+
+# List the processes running under UID 1000. (5 points)
+
+
+
+# How did the user with UID 1000 log into the computer (i.e., via what service 
+# or protocol)? (5 points)
+
+
+
+# What IP address did UID 1000 log in from? (5 points)
+
+
+
+# What is the name of the process with PID 495 and what does it do? (5 points)
+
+
+
+# What IP address and port did PID 495 connect to? (5 points)
+
+
+
+# Write the history of the bash shell below. (5 points)
+
+
+
+# In a few sentences, summarize the compromise (15 points)
+
+
